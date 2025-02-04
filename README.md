@@ -5,6 +5,8 @@ semestre ao 4°- semestre. Devido a isso eu peguei algumas disciplinas não toda
 de cursos parecidos(Análise e Desenvolvimento de Sistemas e Ciências da Computação), mas, que tem disciplinas iguais! Por conta disso 
 resolvi unir esses materiais nem que seja para facilitar o acesso, de algumas pessoas a estas disciplinas. Observação assim que a faculdade,
 liberar o acesso das demais disciplinas estarei corrigindo as disciplinas e adicionarei as que estão em falta.
+
+
 ----------------------------------------------------*SISTEMAS DE INFORMAÇÃO*----------------------------------------------------------
 
 Análise de Dados
