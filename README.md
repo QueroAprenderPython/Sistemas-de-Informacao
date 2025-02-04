@@ -10,28 +10,53 @@ liberar o acesso das demais disciplinas estarei corrigindo as disciplinas e adic
 ----------------------------------------------------*SISTEMAS DE INFORMAÇÃO*----------------------------------------------------------
 
 Análise de Dados
+
 Comportamento Organizacional
+
 Desenvolvimento Rápido em Python
+
 Desenvolvimento Web com HTML5,CSS3, JAVASCRIPT E PHP
+
 Direito Cibernético
+
 Entrega e Suporte em TI
+
 Gerência de Projetos
+
 Gestão de Infraestrutura em TI
+
 Governança de TI com COBIT
+
 Indicadores de Desempenho em TI
+
 Inteligência Artificial
+
 Métodos Ágeis
+
 Modelagem de Processos
+
 Modelagem de Sistemas em UML
+
 Padrões de Projetos de Software com Java
+
 Paradigmas da Linguagem de Programação em Python
+
 Pensamento Computacional
+
 Programação Cliente Servidor
+
 Programação de Microcontroladores
+
 Programação Orientada a Objetos com Java
+
 Programação para Dispositivos Móveis em Android
+
 Redes de Computadores
+
 Segurança Cibernética
+
 Sistemas de Apoia a Decisão
+
 Teoria Geral de Sistemas
+
 Tópicos de Big Data em Python
